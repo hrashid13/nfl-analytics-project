@@ -2,7 +2,7 @@
 
 A full-stack web application for analyzing NFL player tracking data from the 2023 season. This platform provides interactive visualizations and comprehensive analytics for route running, defensive coverage, and play-by-play tracking data from the NFL Big Data Bowl 2026 dataset.
 
-[![Live Demo]](https://nfl-analytics-front-production.up.railway.app/)
+[[Live Demo]](https://nfl-analytics-front-production.up.railway.app/)
 
 
 ## Overview
