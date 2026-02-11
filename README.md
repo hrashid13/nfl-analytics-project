@@ -4,7 +4,7 @@ A full-stack web application for analyzing NFL player tracking data from the 202
 
 [![Live Demo](https://img.shields.io/badge/Demo-NFL_Analytics-blue)](https://nfl-analytics-front-production.up.railway.app/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license)
 
 
 ## Overview
