@@ -2,6 +2,9 @@
 
 A full-stack web application for analyzing NFL player tracking data from the 2023 season. This platform provides interactive visualizations and comprehensive analytics for route running, defensive coverage, and play-by-play tracking data from the NFL Big Data Bowl 2026 dataset.
 
+[![Live Demo](https://img.shields.io/badge/Demo-NFL-Analytics-blue)](https://nfl-analytics-front-production.up.railway.app/)
+
+
 ## Overview
 
 The NFL Analytics Platform is a professional portfolio project demonstrating end-to-end data engineering and full-stack development skills. It processes over 5 million tracking data points to deliver real-time play visualizations and statistical insights through an interactive web interface.
@@ -238,6 +241,12 @@ This is a portfolio project for educational and demonstration purposes.
 ## Author
 
 Hesham - Data Engineering and Analytics Portfolio Project
+
+- Portfolio: https://www.heshamrashid.org/
+- LinkedIn: https://www.linkedin.com/in/hesham-rashid/ 
+- Email: h.f.rashid@gmail.com
+
+Master's in AI and Business Analytics - University of South Florida
 
 ## Acknowledgments
 
